@@ -1,1 +1,3 @@
-# Game-Programming-Lab
+# Game Programming Lab
+
+Sefa EREN
